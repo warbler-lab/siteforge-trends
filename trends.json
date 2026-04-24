@@ -1,0 +1,36 @@
+{
+  "version": "2026.04",
+  "updated": "2026-04-24",
+  "trends": [
+    {
+      "id": "bento-2026",
+      "name": "Bento Grid型",
+      "category": "trend",
+      "layout": "bento",
+      "description": "Appleイベント風の等分割パネル。今のテック系で主流",
+      "colors": { "main": "#0a0a0a", "sub": "#f472b6", "bg": "#fafafa", "dark": "#111" },
+      "font": "Inter",
+      "sections": ["hero", "bento-grid", "cta"]
+    },
+    {
+      "id": "glass-2026",
+      "name": "グラスモーフィズム",
+      "category": "trend",
+      "layout": "glass",
+      "description": "半透明×ぼかしのレイヤー構造",
+      "colors": { "main": "#6366f1", "sub": "#a78bfa", "bg": "#f1f5f9", "dark": "#1e293b" },
+      "font": "Inter",
+      "sections": ["hero", "service", "voice", "cta"]
+    },
+    {
+      "id": "handdrawn-2026",
+      "name": "手書き×ニューブルータリズム",
+      "category": "trend",
+      "layout": "brutal",
+      "description": "黒太枠・大胆タイポ・手書きアイコンの2026年注目トレンド",
+      "colors": { "main": "#fbbf24", "sub": "#000000", "bg": "#fef3c7", "dark": "#000" },
+      "font": "Space Grotesk",
+      "sections": ["hero", "features", "cta"]
+    }
+  ]
+}
